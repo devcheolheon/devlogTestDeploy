@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DEV LOGS]]></title><description><![CDATA[신철헌의 공부한 것들 및 포토폴리오 등등을 올릴 페이지]]></description><link>https://devcheolheon.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 17 Jul 2020 13:25:38 GMT</lastBuildDate><item><title><![CDATA[함수형 자바스크립트 - 목차 TEST]]></title><description><![CDATA[TEST…]]></description><link>https://devcheolheon.github.io/FP/FPinJS/1/</link><guid isPermaLink="false">https://devcheolheon.github.io/FP/FPinJS/1/</guid><content:encoded>&lt;p&gt;TEST@@@@@!!!!!!@@@@&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DEV LOGS]]></title><description><![CDATA[신철헌의 공부한 것들 및 포토폴리오 등등을 올릴 페이지]]></description><link>https://devcheolheon.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 17 Jul 2020 14:05:24 GMT</lastBuildDate><item><title><![CDATA[목차]]></title><description><![CDATA[Data Structure & Algorithms with JavaScript…]]></description><link>https://devcheolheon.github.io/DS/DS_AwithJS/a/</link><guid isPermaLink="false">https://devcheolheon.github.io/DS/DS_AwithJS/a/</guid><content:encoded>&lt;p&gt;&lt;a href=&quot;https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B2390126256&quot;&gt;Data Structure &amp;#x26; Algorithms with JavaScript&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;책을 샀기 때문에 아까워서라도 열심히 읽은 책이지만,
+정말 예제 하나하나 제대로 돌아가는 코드가 없다.
+(예상해보자면,, 다른 언어로 작성된 코드를 자바스크립트에 에러만 안날정도로만 맞춰놓은 것 아닐까..)
+그래도 목차에 따라 면접을 준비해보자.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;목차
+CHAPTER 1 자바스크립트 프로그래밍 환경과 모델
+CHAPTER 2 배열
+CHAPTER 3 리스트
+CHAPTER 4 스택
+CHAPTER 5 큐
+CHAPTER 6 연결 리스트
+CHAPTER 7 딕셔너리
+CHAPTER 8 해싱
+CHAPTER 9 집합
+CHAPTER 10 이진 트리와 이진 검색 트리
+CHAPTER 11 그래프와 그래프 알고리즘
+CHAPTER 12 정렬 알고리즘
+CHAPTER 13 검색 알고리즘
+CHAPTER 14 고급 알고리즘&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[함수형 자바스크립트 - 목차 TEST]]></title><description><![CDATA[TEST…]]></description><link>https://devcheolheon.github.io/FP/FPinJS/1/</link><guid isPermaLink="false">https://devcheolheon.github.io/FP/FPinJS/1/</guid><content:encoded>&lt;p&gt;TEST@@@@@&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.hanbit.co.kr/store/books/look.php?p_code=B2731337630&quot;&gt;함수형 자바스크립트 - 루이스 아텐시오&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;책을 읽고 요약본을 그대로 올리는것은 왠지 저작권법이 두렵기 때문에&lt;br&gt;
 면접 대비용에 알맞게, 면접에 나올만한 키워드 위주로 정리했고&lt;br&gt;
@@ -467,28 +488,7 @@ getJson(url)을 getJson(db) 으로 쉽게 바꿀 수 있고 코드는 정확히 
 Promise.all 이를 이용하면 한 번에 여러 데이터를 내려받는 브라우져의 능력을 극대화 할 수 있습니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[APPENDIX]]></title><description><![CDATA[로대시 JS (lodash) 과거 널리 사용되었던 언더스코어 API를 따라가고 있다, 성능 개선판   람다 JS (ramda) 자동 커링을 지원하며 속성 렌즈 기능도 있다.]]></description><link>https://devcheolheon.github.io/FP/FPinJS/9/</link><guid isPermaLink="false">https://devcheolheon.github.io/FP/FPinJS/9/</guid><content:encoded>&lt;h3&gt;로대시 JS (lodash)&lt;/h3&gt;
 &lt;p&gt;과거 널리 사용되었던 언더스코어 API를 따라가고 있다, 성능 개선판  &lt;/p&gt;
 &lt;h3&gt;람다 JS (ramda)&lt;/h3&gt;
-&lt;p&gt;자동 커링을 지원하며 속성 렌즈 기능도 있다.  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[목차]]></title><description><![CDATA[Data Structure & Algorithms with JavaScript…]]></description><link>https://devcheolheon.github.io/DS/DS_AwithJS/a/</link><guid isPermaLink="false">https://devcheolheon.github.io/DS/DS_AwithJS/a/</guid><content:encoded>&lt;p&gt;&lt;a href=&quot;https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B2390126256&quot;&gt;Data Structure &amp;#x26; Algorithms with JavaScript&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;책을 샀기 때문에 아까워서라도 열심히 읽은 책이지만,
-정말 예제 하나하나 제대로 돌아가는 코드가 없다.
-(예상해보자면,, 다른 언어로 작성된 코드를 자바스크립트에 에러만 안날정도로만 맞춰놓은 것 아닐까..)
-그래도 목차에 따라 면접을 준비해보자.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;목차
-CHAPTER 1 자바스크립트 프로그래밍 환경과 모델
-CHAPTER 2 배열
-CHAPTER 3 리스트
-CHAPTER 4 스택
-CHAPTER 5 큐
-CHAPTER 6 연결 리스트
-CHAPTER 7 딕셔너리
-CHAPTER 8 해싱
-CHAPTER 9 집합
-CHAPTER 10 이진 트리와 이진 검색 트리
-CHAPTER 11 그래프와 그래프 알고리즘
-CHAPTER 12 정렬 알고리즘
-CHAPTER 13 검색 알고리즘
-CHAPTER 14 고급 알고리즘&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[읽은 책 제목]]></title><description><![CDATA[reference Data Structure & Algorithms with JavaScript]]></description><link>https://devcheolheon.github.io/javascript/DataSturcture/readme/</link><guid isPermaLink="false">https://devcheolheon.github.io/javascript/DataSturcture/readme/</guid><content:encoded>&lt;h2&gt;reference&lt;/h2&gt;
+&lt;p&gt;자동 커링을 지원하며 속성 렌즈 기능도 있다.  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[읽은 책 제목]]></title><description><![CDATA[reference Data Structure & Algorithms with JavaScript]]></description><link>https://devcheolheon.github.io/javascript/DataSturcture/readme/</link><guid isPermaLink="false">https://devcheolheon.github.io/javascript/DataSturcture/readme/</guid><content:encoded>&lt;h2&gt;reference&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Data Structure &amp;#x26; Algorithms with JavaScript&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[gatsby로 제작한 블로그 배포하기]]></title><description><![CDATA[1. 배경 gatsby로 깨작깨작 열심히 개발블로그를 만들었고 
