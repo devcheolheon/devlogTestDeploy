@@ -1,0 +1,1 @@
+{"errors":[{"message":"Invalid flags supplied to RegExp constructor 'profile-pic.jpg'","locations":[{"line":10,"column":3}],"path":["avatar"]}],"data":{"avatar":null,"site":{"siteMetadata":{"author":{"name":"신철헌","summary":"즐겁게 개발하고 싶은 초보 프론트엔드 개발자입니다"},"social":{"twitter":"devcheolheon"}}}}}
