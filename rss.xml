@@ -1,4 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DEV LOGS]]></title><description><![CDATA[신철헌의 공부한 것들 및 포토폴리오 등등을 올릴 페이지]]></description><link>https://devcheolheon.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 17 Jul 2020 15:44:26 GMT</lastBuildDate><item><title><![CDATA[CHAPTER 1 - 함수형 길들이기]]></title><description><![CDATA[…]]></description><link>https://devcheolheon.github.io/FP/FPinJS/2/</link><guid isPermaLink="false">https://devcheolheon.github.io/FP/FPinJS/2/</guid><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DEV LOGS]]></title><description><![CDATA[신철헌의 공부한 것들 및 포토폴리오 등등을 올릴 페이지]]></description><link>https://devcheolheon.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 17 Jul 2020 16:57:04 GMT</lastBuildDate><item><title><![CDATA[목차]]></title><description><![CDATA[Data Structure & Algorithms with JavaScript…]]></description><link>https://devcheolheon.github.io/DS/DS_AwithJS/a/</link><guid isPermaLink="false">https://devcheolheon.github.io/DS/DS_AwithJS/a/</guid><content:encoded>&lt;p&gt;&lt;a href=&quot;https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B2390126256&quot;&gt;Data Structure &amp;#x26; Algorithms with JavaScript&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;책을 샀기 때문에 아까워서라도 열심히 읽은 책이지만,
+정말 예제 하나하나 제대로 돌아가는 코드가 없다.
+(예상해보자면,, 다른 언어로 작성된 코드를 자바스크립트에 에러만 안날정도로만 맞춰놓은 것 아닐까..)
+그래도 목차에 따라 면접을 준비해보자.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;목차
+CHAPTER 1 자바스크립트 프로그래밍 환경과 모델
+CHAPTER 2 배열
+CHAPTER 3 리스트
+CHAPTER 4 스택
+CHAPTER 5 큐
+CHAPTER 6 연결 리스트
+CHAPTER 7 딕셔너리
+CHAPTER 8 해싱
+CHAPTER 9 집합
+CHAPTER 10 이진 트리와 이진 검색 트리
+CHAPTER 11 그래프와 그래프 알고리즘
+CHAPTER 12 정렬 알고리즘
+CHAPTER 13 검색 알고리즘
+CHAPTER 14 고급 알고리즘&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[함수형 자바스크립트 - 목차 TEST]]></title><description><![CDATA[last test…]]></description><link>https://devcheolheon.github.io/FP/FPinJS/1/</link><guid isPermaLink="false">https://devcheolheon.github.io/FP/FPinJS/1/</guid><content:encoded>&lt;p&gt;last test&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.hanbit.co.kr/store/books/look.php?p_code=B2731337630&quot;&gt;함수형 자바스크립트 - 루이스 아텐시오&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;책을 읽고 요약본을 그대로 올리는것은 왠지 저작권법이 두렵기 때문에&lt;br&gt;
+면접 대비용에 알맞게, 면접에 나올만한 키워드 위주로 정리했고&lt;br&gt;
+그 부분은 아래 목차에 표시를 하려고 해놓았다.  &lt;/p&gt;
+&lt;p&gt;실제 코드를 진도에 맞게 점차 함수형으로 리팩토링 해나가는 과정이&lt;br&gt;
+이해에 도움이 되었던 것 같고 또한 개념들을 풀어나가는 순서가 정말 친절하게 느껴졌다.  &lt;/p&gt;
+&lt;p&gt;함수형 프로그래밍이 무엇인가? 에 대해서 설명해주는 1장에서 개략적인 설명 먼저 한 후에&lt;br&gt;
+세부 개념들 설명을 쌓아가고 그 개념들을 합해서 다시 설명해주는 이 부분은 특히나 감탄스러웠다.   &lt;/p&gt;
+&lt;p&gt;글쓰기 내공이 프로그래밍 내공이랑 같이 쌓인것 같다는 생각을 해본다. &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;목차 &lt;/p&gt;
+&lt;p&gt;Part I 함수형으로 사고하기 &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CHAPTER 1 함수형 길들이기&lt;br&gt;
+(&lt;a href=&quot;../2/&quot;&gt;함수형 프로그래밍, 선언적, 순수함수, 참조투명성&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;CHAPTER 2 고계 자바스크립트&lt;br&gt;
+(&lt;a href=&quot;../3/&quot;&gt;가동부를 깊이 동결, Renz 함수형 레퍼런스, 클로져&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Part II 함수형으로 전환하기 &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CHAPTER 3 자료구조는 적게, 일은 더 많이&lt;br&gt;
+(&lt;a href=&quot;../4/&quot;&gt;재귀란?&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;CHAPTER 4 재사용 가능한, 모듈적인 코드로&lt;br&gt;
+(&lt;a href=&quot;../5/&quot;&gt;모듈성, 파이프라인,커링, 커링 vs 부분적용&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;CHAPTER 5 복잡성을 줄이는 디자인 패턴&lt;br&gt;
+(&lt;a href=&quot;../6&quot;&gt;함수형 프로그래밍과 예외처리, 함수차, 모나드, 함수 승급, 모나드를 활용하기&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Part III 함수형 스킬 갈고닦기&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CHAPTER 6 빈틈없는 코드 만들기 &lt;/li&gt;
+&lt;li&gt;CHAPTER 7 함수형 최적화 &lt;/li&gt;
+&lt;li&gt;CHAPTER 8 비동기 이벤트와 데이터를 관리&lt;br&gt;
+(&lt;a href=&quot;../8/&quot;&gt;프라미스&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;APPENDIX A 이 책에서 사용한 자바스크립트 라이브러리&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A.1 함수형 자바스크립트 라이브러리&lt;br&gt;
+(&lt;a href=&quot;../9/&quot;&gt;로대시, 람다&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;__A.1.1 로대시JS&lt;/li&gt;
+&lt;li&gt;__A.1.2 람다JS&lt;/li&gt;
+&lt;li&gt;__A.1.3 RxJS&lt;/li&gt;
+&lt;li&gt;A.2 기타 라이브러리&lt;/li&gt;
+&lt;li&gt;__A.2.1 Log4js&lt;/li&gt;
+&lt;li&gt;__A.2.2 QUnit&lt;/li&gt;
+&lt;li&gt;__A.2.3 시논JS&lt;/li&gt;
+&lt;li&gt;__A.2.4 블랭킷JS&lt;/li&gt;
+&lt;li&gt;__A.2.5 JSCheck&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[CHAPTER 1 - 함수형 길들이기]]></title><description><![CDATA[…]]></description><link>https://devcheolheon.github.io/FP/FPinJS/2/</link><guid isPermaLink="false">https://devcheolheon.github.io/FP/FPinJS/2/</guid><content:encoded>&lt;blockquote&gt;
 &lt;h3&gt;결론, 함수형 프로그래밍은&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;외부에서 관찰 가능한 부수효과가 제거된 불변 프로그램을 작성하기 위해 순수함수를 선언적으로 평가하는 것입니다.&lt;/li&gt;
@@ -41,28 +111,72 @@
 &lt;ul&gt;
 &lt;li&gt;(참조 투명성은 순수함수를 정의하는 좀 더 공식적인 방법)&lt;/li&gt;
 &lt;li&gt;어떤 함수가 동일한 입력을 받았을 때 동일한 결과를 내면 참조 투명한 함수&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[목차]]></title><description><![CDATA[Data Structure & Algorithms with JavaScript…]]></description><link>https://devcheolheon.github.io/DS/DS_AwithJS/a/</link><guid isPermaLink="false">https://devcheolheon.github.io/DS/DS_AwithJS/a/</guid><content:encoded>&lt;p&gt;&lt;a href=&quot;https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B2390126256&quot;&gt;Data Structure &amp;#x26; Algorithms with JavaScript&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;책을 샀기 때문에 아까워서라도 열심히 읽은 책이지만,
-정말 예제 하나하나 제대로 돌아가는 코드가 없다.
-(예상해보자면,, 다른 언어로 작성된 코드를 자바스크립트에 에러만 안날정도로만 맞춰놓은 것 아닐까..)
-그래도 목차에 따라 면접을 준비해보자.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;목차
-CHAPTER 1 자바스크립트 프로그래밍 환경과 모델
-CHAPTER 2 배열
-CHAPTER 3 리스트
-CHAPTER 4 스택
-CHAPTER 5 큐
-CHAPTER 6 연결 리스트
-CHAPTER 7 딕셔너리
-CHAPTER 8 해싱
-CHAPTER 9 집합
-CHAPTER 10 이진 트리와 이진 검색 트리
-CHAPTER 11 그래프와 그래프 알고리즘
-CHAPTER 12 정렬 알고리즘
-CHAPTER 13 검색 알고리즘
-CHAPTER 14 고급 알고리즘&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[CHAPTER 3 - 자료구조는 적게, 일은 더 많이]]></title><description><![CDATA[로대시 JS의 사용법, 함수형 프로그래밍에서 재귀가 차지하는 막대한 비중   3.…]]></description><link>https://devcheolheon.github.io/FP/FPinJS/4/</link><guid isPermaLink="false">https://devcheolheon.github.io/FP/FPinJS/4/</guid><content:encoded>&lt;ul&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[CHAPTER 2 - 고계 자바스크립트]]></title><description><![CDATA[객체지향과 함수형을 혼합한 하이브리드 언어인 자바스크립트를 빠르게 둘러봅니다.
+(언어 자체로 불변성 지원 못함) 2.1 왜 자바스크립트인가? 웹 세상을 대표하는 맹주 언어 2.…]]></description><link>https://devcheolheon.github.io/FP/FPinJS/3/</link><guid isPermaLink="false">https://devcheolheon.github.io/FP/FPinJS/3/</guid><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;객체지향과 함수형을 혼합한 하이브리드 언어인 자바스크립트를 빠르게 둘러봅니다.
+(언어 자체로 불변성 지원 못함)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;2.1 왜 자바스크립트인가?&lt;/h3&gt;
+&lt;p&gt;웹 세상을 대표하는 맹주 언어&lt;/p&gt;
+&lt;h3&gt;2.2.함수형 대 객체지향 프로그래밍&lt;/h3&gt;
+&lt;p&gt;객체 지향은 데이터와 데이터 관계의 본질에 초점을 두는 한편
+함수형의 관심사는 해야 할 일, 즉 기능입니다.&lt;/p&gt;
+&lt;p&gt;함수형 자바스크립트로 개발할 때에는 상태 변화 관리에 특히 신경을 써야 합니다&lt;/p&gt;
+&lt;h3&gt;2.2.1 자바스크립트의 상태관리&lt;/h3&gt;
+&lt;p&gt;상태란, 어느 한 시점에 찍은 모든 객체에 저장된 데이터의 스냅샷 입니다.
+안타깝게도 자바스크립트는 객체의 상태를 보호하는 측면에서 최악의 언어중 하나입니다&lt;/p&gt;
+&lt;p&gt;데이터를 완전히 캡슐화하고 보호하는 건 여러분 스스로 훈련을 통해 엄격히 지켜야 할 목표입니다.
+( 자바스크립트에서는 객체의 상태를 보호하는 측면에서는 최악의 언어 ) &lt;/p&gt;
+&lt;p&gt;이를 위한 방법들 &lt;/p&gt;
+&lt;h3&gt;가동부를 깊이 동결&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;object.freeze() 함수를 사용 &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;내부 객체 속성까지는 동결하지 않는다.(shallow freeze)&lt;br&gt;
+객체의 중첩 구조를 일일이 수작업으로 동결해야 합니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;isObject&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;val&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; val &lt;span class=&quot;token operator&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;typeof&lt;/span&gt; val &lt;span class=&quot;token operator&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;object&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;deepFreeze&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;obj&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;isObject&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;obj&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;!&lt;/span&gt;Object&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;isFrozen&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;obj&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    Object&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;keys&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;obj&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;forEach&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;deepFreeze&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;obj&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;name&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    Object&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;freeze&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;obj&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; obj&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;렌즈(lense)함수형 레퍼런스&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;상태형 자료형의 속성에 접근하여 불변화 하는 함수형 프로그래밍 기법&lt;/li&gt;
+&lt;li&gt;책에는 간단한 사용법도 소개되어 있다. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; person &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  firstName&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;aaa&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  address&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    zip&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      a&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;123&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+      b&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1234&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; zipPath &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;address&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;zip&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; zipLens &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;lens&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;zipPath&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;assocPath&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;zipPath&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;view&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;zipLens&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; person&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; newPerson &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;zipLens&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; a&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;123&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; b&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;444&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; person&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; newZip &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;view&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;zipLens&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; newPerson&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; originalZip &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;view&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;zipLesns&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; person&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+newZip&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;toString&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;!==&lt;/span&gt; originalZip&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;toString&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;클로저&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;함수를 선언할 당시의 환경을 함수에 묶어둔 자료구조&lt;/li&gt;
+&lt;li&gt;함수 선언부의 물리적 위치에 의존하므로 정적스코프 (static scope)&lt;br&gt;
+혹은 어휘 스코프(lexical scope) 라고도 합니다.&lt;/li&gt;
+&lt;li&gt;이벤트 처리 및 콜백, 프라이빗 변수 모방, 일부 자바스크립트의 약점을 보완하는 용도로도 유익합니다&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[CHAPTER 3 - 자료구조는 적게, 일은 더 많이]]></title><description><![CDATA[로대시 JS의 사용법, 함수형 프로그래밍에서 재귀가 차지하는 막대한 비중   3.…]]></description><link>https://devcheolheon.github.io/FP/FPinJS/4/</link><guid isPermaLink="false">https://devcheolheon.github.io/FP/FPinJS/4/</guid><content:encoded>&lt;ul&gt;
 &lt;li&gt;로대시 JS의 사용법, 함수형 프로그래밍에서 재귀가 차지하는 막대한 비중  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;3.3 함수 체이닝&lt;/h3&gt;
@@ -208,134 +322,7 @@ setTimeout을 만약에 객체의 메서드로 실행하려고 한다면 이를 
 join함수와 주어진 입력을 처리할 종단함수 두개를 받습니다.  &lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; computeAverageGrade &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;
-&lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;compose&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;getLetterGrade&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;fork&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;divide&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;sum&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;length&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[함수형 자바스크립트 - 목차 TEST]]></title><description><![CDATA[TEST…]]></description><link>https://devcheolheon.github.io/FP/FPinJS/1/</link><guid isPermaLink="false">https://devcheolheon.github.io/FP/FPinJS/1/</guid><content:encoded>&lt;p&gt;TEST@@@@@&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.hanbit.co.kr/store/books/look.php?p_code=B2731337630&quot;&gt;함수형 자바스크립트 - 루이스 아텐시오&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;책을 읽고 요약본을 그대로 올리는것은 왠지 저작권법이 두렵기 때문에&lt;br&gt;
-면접 대비용에 알맞게, 면접에 나올만한 키워드 위주로 정리했고&lt;br&gt;
-그 부분은 아래 목차에 표시를 하려고 해놓았다.  &lt;/p&gt;
-&lt;p&gt;실제 코드를 진도에 맞게 점차 함수형으로 리팩토링 해나가는 과정이&lt;br&gt;
-이해에 도움이 되었던 것 같고 또한 개념들을 풀어나가는 순서가 정말 친절하게 느껴졌다.  &lt;/p&gt;
-&lt;p&gt;함수형 프로그래밍이 무엇인가? 에 대해서 설명해주는 1장에서 개략적인 설명 먼저 한 후에&lt;br&gt;
-세부 개념들 설명을 쌓아가고 그 개념들을 합해서 다시 설명해주는 이 부분은 특히나 감탄스러웠다.   &lt;/p&gt;
-&lt;p&gt;글쓰기 내공이 프로그래밍 내공이랑 같이 쌓인것 같다는 생각을 해본다. &lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;목차 &lt;/p&gt;
-&lt;p&gt;Part I 함수형으로 사고하기 &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;CHAPTER 1 함수형 길들이기&lt;br&gt;
-(&lt;a href=&quot;../2/&quot;&gt;함수형 프로그래밍, 선언적, 순수함수, 참조투명성&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;CHAPTER 2 고계 자바스크립트&lt;br&gt;
-(&lt;a href=&quot;../3/&quot;&gt;가동부를 깊이 동결, Renz 함수형 레퍼런스, 클로져&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Part II 함수형으로 전환하기 &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;CHAPTER 3 자료구조는 적게, 일은 더 많이&lt;br&gt;
-(&lt;a href=&quot;../4/&quot;&gt;재귀란?&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;CHAPTER 4 재사용 가능한, 모듈적인 코드로&lt;br&gt;
-(&lt;a href=&quot;../5/&quot;&gt;모듈성, 파이프라인,커링, 커링 vs 부분적용&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;CHAPTER 5 복잡성을 줄이는 디자인 패턴&lt;br&gt;
-(&lt;a href=&quot;../6&quot;&gt;함수형 프로그래밍과 예외처리, 함수차, 모나드, 함수 승급, 모나드를 활용하기&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Part III 함수형 스킬 갈고닦기&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;CHAPTER 6 빈틈없는 코드 만들기 &lt;/li&gt;
-&lt;li&gt;CHAPTER 7 함수형 최적화 &lt;/li&gt;
-&lt;li&gt;CHAPTER 8 비동기 이벤트와 데이터를 관리&lt;br&gt;
-(&lt;a href=&quot;../8/&quot;&gt;프라미스&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;APPENDIX A 이 책에서 사용한 자바스크립트 라이브러리&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A.1 함수형 자바스크립트 라이브러리&lt;br&gt;
-(&lt;a href=&quot;../9/&quot;&gt;로대시, 람다&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;__A.1.1 로대시JS&lt;/li&gt;
-&lt;li&gt;__A.1.2 람다JS&lt;/li&gt;
-&lt;li&gt;__A.1.3 RxJS&lt;/li&gt;
-&lt;li&gt;A.2 기타 라이브러리&lt;/li&gt;
-&lt;li&gt;__A.2.1 Log4js&lt;/li&gt;
-&lt;li&gt;__A.2.2 QUnit&lt;/li&gt;
-&lt;li&gt;__A.2.3 시논JS&lt;/li&gt;
-&lt;li&gt;__A.2.4 블랭킷JS&lt;/li&gt;
-&lt;li&gt;__A.2.5 JSCheck&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[CHAPTER 2 - 고계 자바스크립트]]></title><description><![CDATA[객체지향과 함수형을 혼합한 하이브리드 언어인 자바스크립트를 빠르게 둘러봅니다.
-(언어 자체로 불변성 지원 못함) 2.1 왜 자바스크립트인가? 웹 세상을 대표하는 맹주 언어 2.…]]></description><link>https://devcheolheon.github.io/FP/FPinJS/3/</link><guid isPermaLink="false">https://devcheolheon.github.io/FP/FPinJS/3/</guid><content:encoded>&lt;blockquote&gt;
-&lt;p&gt;객체지향과 함수형을 혼합한 하이브리드 언어인 자바스크립트를 빠르게 둘러봅니다.
-(언어 자체로 불변성 지원 못함)&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3&gt;2.1 왜 자바스크립트인가?&lt;/h3&gt;
-&lt;p&gt;웹 세상을 대표하는 맹주 언어&lt;/p&gt;
-&lt;h3&gt;2.2.함수형 대 객체지향 프로그래밍&lt;/h3&gt;
-&lt;p&gt;객체 지향은 데이터와 데이터 관계의 본질에 초점을 두는 한편
-함수형의 관심사는 해야 할 일, 즉 기능입니다.&lt;/p&gt;
-&lt;p&gt;함수형 자바스크립트로 개발할 때에는 상태 변화 관리에 특히 신경을 써야 합니다&lt;/p&gt;
-&lt;h3&gt;2.2.1 자바스크립트의 상태관리&lt;/h3&gt;
-&lt;p&gt;상태란, 어느 한 시점에 찍은 모든 객체에 저장된 데이터의 스냅샷 입니다.
-안타깝게도 자바스크립트는 객체의 상태를 보호하는 측면에서 최악의 언어중 하나입니다&lt;/p&gt;
-&lt;p&gt;데이터를 완전히 캡슐화하고 보호하는 건 여러분 스스로 훈련을 통해 엄격히 지켜야 할 목표입니다.
-( 자바스크립트에서는 객체의 상태를 보호하는 측면에서는 최악의 언어 ) &lt;/p&gt;
-&lt;p&gt;이를 위한 방법들 &lt;/p&gt;
-&lt;h3&gt;가동부를 깊이 동결&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;object.freeze() 함수를 사용 &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;내부 객체 속성까지는 동결하지 않는다.(shallow freeze)&lt;br&gt;
-객체의 중첩 구조를 일일이 수작업으로 동결해야 합니다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;isObject&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;val&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; val &lt;span class=&quot;token operator&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;typeof&lt;/span&gt; val &lt;span class=&quot;token operator&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;object&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;deepFreeze&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;obj&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;isObject&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;obj&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;!&lt;/span&gt;Object&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;isFrozen&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;obj&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    Object&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;keys&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;obj&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;forEach&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;deepFreeze&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;obj&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;name&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    Object&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;freeze&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;obj&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; obj&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;렌즈(lense)함수형 레퍼런스&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;상태형 자료형의 속성에 접근하여 불변화 하는 함수형 프로그래밍 기법&lt;/li&gt;
-&lt;li&gt;책에는 간단한 사용법도 소개되어 있다. &lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; person &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  firstName&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;aaa&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-  address&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    zip&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-      a&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;123&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-      b&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1234&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; zipPath &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;address&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;zip&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; zipLens &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;lens&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;zipPath&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;assocPath&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;zipPath&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;view&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;zipLens&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; person&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; newPerson &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;zipLens&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; a&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;123&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; b&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;444&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; person&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; newZip &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;view&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;zipLens&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; newPerson&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; originalZip &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;view&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;zipLesns&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; person&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-newZip&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;toString&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;!==&lt;/span&gt; originalZip&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;toString&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;클로저&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;함수를 선언할 당시의 환경을 함수에 묶어둔 자료구조&lt;/li&gt;
-&lt;li&gt;함수 선언부의 물리적 위치에 의존하므로 정적스코프 (static scope)&lt;br&gt;
-혹은 어휘 스코프(lexical scope) 라고도 합니다.&lt;/li&gt;
-&lt;li&gt;이벤트 처리 및 콜백, 프라이빗 변수 모방, 일부 자바스크립트의 약점을 보완하는 용도로도 유익합니다&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[CHAPTER 8 - 비동기 이벤트와 데이터를 관리]]></title><description><![CDATA[프라미스 프라미스라는 모나드를 소개합니다.   ES6는 프라미스/A+ 라는 공개 표준을 채택했습니다. 기본적인 프라미스 객체는 이렇게 구성합니다.   Promise.then(f) 는 함수자의 fmap과 유사한 then…]]></description><link>https://devcheolheon.github.io/FP/FPinJS/8/</link><guid isPermaLink="false">https://devcheolheon.github.io/FP/FPinJS/8/</guid><content:encoded>&lt;h3&gt;프라미스&lt;/h3&gt;
-&lt;p&gt;프라미스라는 모나드를 소개합니다.  &lt;/p&gt;
-&lt;p&gt;ES6는 프라미스/A+ 라는 공개 표준을 채택했습니다.&lt;br&gt;
-기본적인 프라미스 객체는 이렇게 구성합니다.  &lt;/p&gt;
-&lt;p&gt;Promise.then(f) 는 함수자의 fmap과 유사한 then메서드를 지닙니다.&lt;br&gt;
-어떤 연산을 수행하고 다시 프라미스 형태로 되돌리는 매서드죠  &lt;/p&gt;
-&lt;p&gt;promise.then(f)는 데이터 변환 작업을 서로 체이닝하고 여러 함수를 제때 끌어모아 함수 사이의&lt;br&gt;
-일시적인 결합을 추상하는 용도로 쓰입니다.  &lt;/p&gt;
-&lt;p&gt;에러 콜백은, 마지막 단계에 catch메서드에 일임하는 방법도 있습니다  &lt;/p&gt;
-&lt;p&gt;프라미즈는 비동기 흐름을 숨기지만 시간 관념은 then으로 분명히 드러내기 때문에
-getJson(url)을 getJson(db) 으로 쉽게 바꿀 수 있고 코드는 정확히 작동합니다.&lt;/p&gt;
-&lt;p&gt;이런 수준의 유연성을 위치 투명성(location transperancy)라고 합니다.&lt;/p&gt;
-&lt;p&gt;점수를 조회하는 작업을 직렬화하지 않고 동시에 진행할 수 있습니다.
-Promise.all 이를 이용하면 한 번에 여러 데이터를 내려받는 브라우져의 능력을 극대화 할 수 있습니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CHAPTER 6 - 복잡성을 줄이는 디자인 패턴]]></title><description><![CDATA[…]]></description><link>https://devcheolheon.github.io/FP/FPinJS/6/</link><guid isPermaLink="false">https://devcheolheon.github.io/FP/FPinJS/6/</guid><content:encoded>&lt;h3&gt;함수형 프로그래밍과 예외 처리&lt;/h3&gt;
+&lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;compose&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;getLetterGrade&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;fork&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;divide&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;sum&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;length&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[CHAPTER 6 - 복잡성을 줄이는 디자인 패턴]]></title><description><![CDATA[…]]></description><link>https://devcheolheon.github.io/FP/FPinJS/6/</link><guid isPermaLink="false">https://devcheolheon.github.io/FP/FPinJS/6/</guid><content:encoded>&lt;h3&gt;함수형 프로그래밍과 예외 처리&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;예외를 던지는 행위는 함수 호출에서 빠져나갈 구멍을 찾는 것이므로&lt;br&gt;
 단일한, 예측 가능한 값을 지향하는 참조 투명성 원리에 위배됩니다.  &lt;/li&gt;
@@ -485,7 +472,20 @@ Maybe&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span clas
 &lt;span class=&quot;token function&quot;&gt;chain&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;findStudent&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
 &lt;span class=&quot;token constant&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;tap&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;tarce&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;입력값이 정상입니다&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
 &lt;span class=&quot;token function&quot;&gt;chain&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;checkLengthSsn&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;token function&quot;&gt;lift&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;cleanInput&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[APPENDIX]]></title><description><![CDATA[로대시 JS (lodash) 과거 널리 사용되었던 언더스코어 API를 따라가고 있다, 성능 개선판   람다 JS (ramda) 자동 커링을 지원하며 속성 렌즈 기능도 있다.]]></description><link>https://devcheolheon.github.io/FP/FPinJS/9/</link><guid isPermaLink="false">https://devcheolheon.github.io/FP/FPinJS/9/</guid><content:encoded>&lt;h3&gt;로대시 JS (lodash)&lt;/h3&gt;
+&lt;span class=&quot;token function&quot;&gt;lift&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;cleanInput&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[CHAPTER 8 - 비동기 이벤트와 데이터를 관리]]></title><description><![CDATA[프라미스 프라미스라는 모나드를 소개합니다.   ES6는 프라미스/A+ 라는 공개 표준을 채택했습니다. 기본적인 프라미스 객체는 이렇게 구성합니다.   Promise.then(f) 는 함수자의 fmap과 유사한 then…]]></description><link>https://devcheolheon.github.io/FP/FPinJS/8/</link><guid isPermaLink="false">https://devcheolheon.github.io/FP/FPinJS/8/</guid><content:encoded>&lt;h3&gt;프라미스&lt;/h3&gt;
+&lt;p&gt;프라미스라는 모나드를 소개합니다.  &lt;/p&gt;
+&lt;p&gt;ES6는 프라미스/A+ 라는 공개 표준을 채택했습니다.&lt;br&gt;
+기본적인 프라미스 객체는 이렇게 구성합니다.  &lt;/p&gt;
+&lt;p&gt;Promise.then(f) 는 함수자의 fmap과 유사한 then메서드를 지닙니다.&lt;br&gt;
+어떤 연산을 수행하고 다시 프라미스 형태로 되돌리는 매서드죠  &lt;/p&gt;
+&lt;p&gt;promise.then(f)는 데이터 변환 작업을 서로 체이닝하고 여러 함수를 제때 끌어모아 함수 사이의&lt;br&gt;
+일시적인 결합을 추상하는 용도로 쓰입니다.  &lt;/p&gt;
+&lt;p&gt;에러 콜백은, 마지막 단계에 catch메서드에 일임하는 방법도 있습니다  &lt;/p&gt;
+&lt;p&gt;프라미즈는 비동기 흐름을 숨기지만 시간 관념은 then으로 분명히 드러내기 때문에
+getJson(url)을 getJson(db) 으로 쉽게 바꿀 수 있고 코드는 정확히 작동합니다.&lt;/p&gt;
+&lt;p&gt;이런 수준의 유연성을 위치 투명성(location transperancy)라고 합니다.&lt;/p&gt;
+&lt;p&gt;점수를 조회하는 작업을 직렬화하지 않고 동시에 진행할 수 있습니다.
+Promise.all 이를 이용하면 한 번에 여러 데이터를 내려받는 브라우져의 능력을 극대화 할 수 있습니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[APPENDIX]]></title><description><![CDATA[로대시 JS (lodash) 과거 널리 사용되었던 언더스코어 API를 따라가고 있다, 성능 개선판   람다 JS (ramda) 자동 커링을 지원하며 속성 렌즈 기능도 있다.]]></description><link>https://devcheolheon.github.io/FP/FPinJS/9/</link><guid isPermaLink="false">https://devcheolheon.github.io/FP/FPinJS/9/</guid><content:encoded>&lt;h3&gt;로대시 JS (lodash)&lt;/h3&gt;
 &lt;p&gt;과거 널리 사용되었던 언더스코어 API를 따라가고 있다, 성능 개선판  &lt;/p&gt;
 &lt;h3&gt;람다 JS (ramda)&lt;/h3&gt;
 &lt;p&gt;자동 커링을 지원하며 속성 렌즈 기능도 있다.  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[읽은 책 제목]]></title><description><![CDATA[reference Data Structure & Algorithms with JavaScript]]></description><link>https://devcheolheon.github.io/javascript/DataSturcture/readme/</link><guid isPermaLink="false">https://devcheolheon.github.io/javascript/DataSturcture/readme/</guid><content:encoded>&lt;h2&gt;reference&lt;/h2&gt;
@@ -550,14 +550,14 @@ package.json을 작성해주면 된다. 이걸 그대로 실행하기 위해서 
 (배포하려고 할때 시작점이 되어준 고마운 블로그)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://soharu.github.io/posts/2019-09-18-Deploying-to-GitHub-Pages/&quot;&gt;Github Pages로 블로그 배포하기&lt;/a&gt;
 (어쩌다가 배포 레포와 소스 레포를 분리하신 분이고 딱 내가 필요한 과정을 그대로 진행한 블로그)&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[reference JavaScript: The Good Parts]]></description><link>https://devcheolheon.github.io/javascript/thegoodparts/README/</link><guid isPermaLink="false">https://devcheolheon.github.io/javascript/thegoodparts/README/</guid><content:encoded>&lt;h2&gt;reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;JavaScript: The Good Parts&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[reference You don’t know JS - 타입과 문법, 스코프와 클로져 You don’t know JS - this와 객체 프로토타입, 비동기와 성능 https://github.com/getify/You-Dont-Know-JS]]></description><link>https://devcheolheon.github.io/javascript/youdontknowjs/readme/</link><guid isPermaLink="false">https://devcheolheon.github.io/javascript/youdontknowjs/readme/</guid><content:encoded>&lt;h2&gt;reference&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;You don’t know JS - 타입과 문법, 스코프와 클로져&lt;/li&gt;
 &lt;li&gt;You don’t know JS - this와 객체 프로토타입, 비동기와 성능&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/getify/You-Dont-Know-JS&quot;&gt;https://github.com/getify/You-Dont-Know-JS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[reference JavaScript: The Good Parts]]></description><link>https://devcheolheon.github.io/javascript/thegoodparts/README/</link><guid isPermaLink="false">https://devcheolheon.github.io/javascript/thegoodparts/README/</guid><content:encoded>&lt;h2&gt;reference&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;JavaScript: The Good Parts&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://devcheolheon.github.io/new-beginnings/</link><guid isPermaLink="false">https://devcheolheon.github.io/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
@@ -676,7 +676,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/devlogTestDeploy/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
+    href=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -689,13 +689,13 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Chinese Salty Egg&quot;
         title=&quot;Chinese Salty Egg&quot;
-        src=&quot;/devlogTestDeploy/static/8058f3f26913fea3b6a89a73344fe94a/1c72d/salty_egg.jpg&quot;
-        srcset=&quot;/devlogTestDeploy/static/8058f3f26913fea3b6a89a73344fe94a/a80bd/salty_egg.jpg 148w,
-/devlogTestDeploy/static/8058f3f26913fea3b6a89a73344fe94a/1c91a/salty_egg.jpg 295w,
-/devlogTestDeploy/static/8058f3f26913fea3b6a89a73344fe94a/1c72d/salty_egg.jpg 590w,
-/devlogTestDeploy/static/8058f3f26913fea3b6a89a73344fe94a/a8a14/salty_egg.jpg 885w,
-/devlogTestDeploy/static/8058f3f26913fea3b6a89a73344fe94a/fbd2c/salty_egg.jpg 1180w,
-/devlogTestDeploy/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
+        src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/1c72d/salty_egg.jpg&quot;
+        srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/a80bd/salty_egg.jpg 148w,
+/static/8058f3f26913fea3b6a89a73344fe94a/1c91a/salty_egg.jpg 295w,
+/static/8058f3f26913fea3b6a89a73344fe94a/1c72d/salty_egg.jpg 590w,
+/static/8058f3f26913fea3b6a89a73344fe94a/a8a14/salty_egg.jpg 885w,
+/static/8058f3f26913fea3b6a89a73344fe94a/fbd2c/salty_egg.jpg 1180w,
+/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
