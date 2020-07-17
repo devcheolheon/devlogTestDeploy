@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DEV LOGS]]></title><description><![CDATA[신철헌의 공부한 것들 및 포토폴리오 등등을 올릴 페이지]]></description><link>https://devcheolheon.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 17 Jul 2020 11:56:45 GMT</lastBuildDate><item><title><![CDATA[목차]]></title><description><![CDATA[Data Structure & Algorithms with JavaScript…]]></description><link>https://devcheolheon.github.io/DS/DS_AwithJS/a/</link><guid isPermaLink="false">https://devcheolheon.github.io/DS/DS_AwithJS/a/</guid><content:encoded>&lt;p&gt;&lt;a href=&quot;https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B2390126256&quot;&gt;Data Structure &amp;#x26; Algorithms with JavaScript&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DEV LOGS]]></title><description><![CDATA[신철헌의 공부한 것들 및 포토폴리오 등등을 올릴 페이지]]></description><link>https://devcheolheon.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 17 Jul 2020 12:15:19 GMT</lastBuildDate><item><title><![CDATA[목차]]></title><description><![CDATA[Data Structure & Algorithms with JavaScript…]]></description><link>https://devcheolheon.github.io/DS/DS_AwithJS/a/</link><guid isPermaLink="false">https://devcheolheon.github.io/DS/DS_AwithJS/a/</guid><content:encoded>&lt;p&gt;&lt;a href=&quot;https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B2390126256&quot;&gt;Data Structure &amp;#x26; Algorithms with JavaScript&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;책을 샀기 때문에 아까워서라도 열심히 읽은 책이지만,
 정말 예제 하나하나 제대로 돌아가는 코드가 없다.
 (예상해보자면,, 다른 언어로 작성된 코드를 자바스크립트에 에러만 안날정도로만 맞춰놓은 것 아닐까..)
@@ -19,9 +19,7 @@ CHAPTER 11 그래프와 그래프 알고리즘
 CHAPTER 12 정렬 알고리즘
 CHAPTER 13 검색 알고리즘
 CHAPTER 14 고급 알고리즘&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[함수형 자바스크립트 - 목차 TEST]]></title><description><![CDATA[test
-test…]]></description><link>https://devcheolheon.github.io/FP/FPinJS/1/</link><guid isPermaLink="false">https://devcheolheon.github.io/FP/FPinJS/1/</guid><content:encoded>&lt;p&gt;test
-test&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[함수형 자바스크립트 - 목차 TEST]]></title><description><![CDATA[TEST…]]></description><link>https://devcheolheon.github.io/FP/FPinJS/1/</link><guid isPermaLink="false">https://devcheolheon.github.io/FP/FPinJS/1/</guid><content:encoded>&lt;p&gt;TEST&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.hanbit.co.kr/store/books/look.php?p_code=B2731337630&quot;&gt;함수형 자바스크립트 - 루이스 아텐시오&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;책을 읽고 요약본을 그대로 올리는것은 왠지 저작권법이 두렵기 때문에&lt;br&gt;
 면접 대비용에 알맞게, 면접에 나올만한 키워드 위주로 정리했고&lt;br&gt;
